@@ -22,3 +22,5 @@ tomcat
 openvpn/openvpn-as
 redis:latest
 halohub/halo
+portainer/portainer
+portainer/portainer-ce
