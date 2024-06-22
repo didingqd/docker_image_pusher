@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/amd64 xiaoyaliu/alist
 
 whyour/qinglong:latest
+janes/beef:latest
