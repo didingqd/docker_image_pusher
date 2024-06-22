@@ -27,3 +27,6 @@ halohub/halo
 kasmweb/qbittorrent
 stilleshan/frps
 phpmyadmin
+kodcloud/kodbox
+nextcloud
+
