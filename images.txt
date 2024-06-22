@@ -1,2 +1,3 @@
-stilleshan/frps
-
+linuxserver/qbittorrent
+cloudreve/cloudreve
+onlyoffice/documentserver
