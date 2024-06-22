@@ -21,4 +21,9 @@ python
 debian
 openjdk
 tomcat
+openvpn/openvpn-as
+redis:latest
+halohub/halo
+kasmweb/qbittorrent
+stilleshan/frps
 
