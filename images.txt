@@ -26,4 +26,4 @@ redis:latest
 halohub/halo
 kasmweb/qbittorrent
 stilleshan/frps
-
+phpmyadmin
