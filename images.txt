@@ -7,3 +7,5 @@ xhofe/alist:latest
 
 whyour/qinglong:latest
 mysql
+janes/beef
+mariadb
