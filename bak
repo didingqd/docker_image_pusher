@@ -28,3 +28,6 @@ portainer/portainer-ce
 kodcloud/kodbox
 nextcloud
 phpmyadmin
+linuxserver/qbittorrent
+cloudreve/cloudreve
+onlyoffice/documentserver
