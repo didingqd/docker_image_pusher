@@ -1,3 +1,5 @@
-kasmweb/qbittorrent
+portainer/portainer
+portainer/portainer-ce
+
 
 
