@@ -19,10 +19,5 @@ php
 wordpress
 python
 debian
-java
-tomcat
-fedora
-pypy
-bash
-gcc
+
 
