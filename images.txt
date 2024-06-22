@@ -19,5 +19,6 @@ php
 wordpress
 python
 debian
-
+openjdk
+tomcat
 
