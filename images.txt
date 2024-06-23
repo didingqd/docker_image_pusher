@@ -1,2 +1,2 @@
-linuxserver/librespeed:latest
+frooodle/s-pdf:latest
 
