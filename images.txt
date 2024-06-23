@@ -1,2 +1,3 @@
-frooodle/s-pdf:latest
-jgraph/drawio:latest
+vulhub/aria2
+linuxserver/emby
+jellyfin/jellyfin
