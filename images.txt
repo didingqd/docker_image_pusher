@@ -1,2 +1,2 @@
-linuxserver/emby
-
+jellyfin/jellyfin
+p3terx/aria2-pro
