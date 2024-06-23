@@ -1,2 +1,2 @@
-usememos/memos
+linuxserver/librespeed:latest
 
