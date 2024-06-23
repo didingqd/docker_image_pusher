@@ -1,2 +1,2 @@
 frooodle/s-pdf:latest
-
+jgraph/drawio:latest
