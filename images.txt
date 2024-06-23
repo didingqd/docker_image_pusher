@@ -1,3 +1,1 @@
-louislam/uptime-kuma
-searxng/searxng
-elestio/memos
+janes/beef
