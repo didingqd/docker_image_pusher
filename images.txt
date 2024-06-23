@@ -1,2 +1,2 @@
-coder/code-server
+usememos/memos
 
