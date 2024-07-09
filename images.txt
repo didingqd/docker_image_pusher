@@ -1,1 +1,2 @@
-ghcr.io/librespeed/speedtest:latest
+beefproject/beef:latest
+phocean/beef:latest
